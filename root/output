@@ -1,0 +1,24 @@
+[{'index': 0, 
+'timestamp': 1644357581.7979572, 
+'transactions': [], 
+'proof': 123, 
+'previous_hash': 'The Times 03/09/2009 Chancellor on brink of second bailout for banks.'}, 
+
+{'index': 1, 
+'timestamp': 1644357581.7979572, 
+'transactions': [
+    {'sender': 'Amanda', 'recipient': 'Satoshi', 'amount': '70 AC'}, 
+    {'sender': 'Satoshi', 'recipient': 'Java', 'amount': '23 AC'}, 
+    {'sender': 'Java', 'recipient': 'Lucas', 'amount': '34 AC'}], 
+'proof': 12345, 
+'previous_hash': '0a9176fad32bdad5ac2b047c15e5f94e3cd5446f24c515d5e282d7d1b2b4161f'}, 
+
+{'index': 2, 
+'timestamp': 1644357581.832389, 
+'transactions': [
+    {'sender': 'Ullas', 'recipient': 'Benvas', 'amount': '11 AC'}, 
+    {'sender': 'Leander', 'recipient': 'Bryan', 'amount': '3 AC'}, 
+    {'sender': 'Marcus', 'recipient': 'Honda', 'amount': '88 AC'}], 
+'proof': 6789, 
+'previous_hash': '80cfd7b518bfa109693a9be0cb6c707887a742565c5b1ad79d7f4c515839642d'}]
+
